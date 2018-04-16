@@ -60,6 +60,7 @@ h2 {
 	font-size: 24px;
 	font-weight: normal;
 	color: #073475;
+	text-align: left;
 }
 
 h3 {
@@ -266,6 +267,7 @@ h3 {
 
 .seccion_4 {
 	width: 400px;
+	text-align: right;
 }
 
 .seccion_5 {
